@@ -101,9 +101,11 @@ Workspaces change icon based on app:
 
 ---
 
+
 ## 📸 Preview
 
-> Add screenshots or a demo gif here
+![preview](image.png)
+
 
 ---
 
