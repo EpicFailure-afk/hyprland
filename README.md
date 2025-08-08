@@ -83,24 +83,6 @@ Built on Arch Linux. Focused on clean visuals, practical keybindings, and minima
 
 ---
 
-## 💻 Workspace Icons (Dynamic)
-
-Workspaces change icon based on app:
-
-| App Class | Icon |
-| --------- | ---- |
-| Firefox   | 🦊   |
-| Brave     | 🧭   |
-| VS Code   | 🧠   |
-| Kitty     | 🐱   |
-| Thunar    | 📁   |
-| Spotify   | 🎵   |
-| Obsidian  | 📓   |
-
-[Dynamic Workspace Script](#) included in `scripts/`.
-
----
-
 
 ## 📸 Preview
 
